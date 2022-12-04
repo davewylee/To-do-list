@@ -4,6 +4,7 @@ https://davewylee.github.io/To-do-list/To-do%20list.html
 A JS practice from Web development bootcamp by Colt Steele.
 
 ***** Please go to the F12 ChromeDev tool, and go to the console. *****
+
 ***** Please follow below instruction to operate the page. *****
 
 To-do List
